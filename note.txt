@@ -1,0 +1,6 @@
+建立React
+npx create-react-app ./
+更新相同版本
+npm install --legacy-peer-deps
+
+npm audit fix
